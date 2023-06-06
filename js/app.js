@@ -17,7 +17,7 @@ Sum(10,15);
 
 
 
-function increaseDiv(){
+function increasediv(){
     let div = document.querySelector(".box")
     let initialwidth = div.clientWidth;
     div.style.width = initialwidth + 50 + "px";
